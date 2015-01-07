@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/shaders">
+        <file>fshader_gouraud.glsl</file>
+        <file>fshader_phong.glsl</file>
+        <file>fshader_points.glsl</file>
+        <file>fshader_wf.glsl</file>
+        <file>vshader_gouraud.glsl</file>
+        <file>vshader_phong.glsl</file>
+        <file>vshader_points.glsl</file>
+        <file>vshader_wf.glsl</file>
+    </qresource>
+</RCC>
